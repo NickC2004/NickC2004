@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @NickC2004
+- 🌱 I’m currently learning Computer Science A-Level
